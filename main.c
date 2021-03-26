@@ -153,7 +153,7 @@ void print_names(){
 
 int main() {
     populate_layers();
-    print_names();
+    //print_names();
     link_layers();
     check_connections();
     return 0;
